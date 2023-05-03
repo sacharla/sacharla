@@ -18,7 +18,7 @@ I am a keen learner of modern emerging technologies. Highly enthusiastic in Data
 <h3 align="center">API testing tools: Postman</h3>
 
 - 🔭 I’m currently working as Masters Student at the University of South Florida
-- Previous Work experience:
+- Previous Work experience :man_technologist::
 <h3 align="center">Betsol.Inc,  Bangalore, INDIA                                                                                                             June 2021-Aug 2022.</h3>
 - Product Support Software Engineer (Risk Analysis)
 •	Worked in a data management company setting and helped the organization identify and develop new analytical ideas, approaches, and supporting capabilities for the new product design and development.
