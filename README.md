@@ -33,6 +33,8 @@ I am a keen learner of modern emerging technologies. Highly enthusiastic in Data
 •	Provided Software and security solutions in relation to the AVAYA CC/UC applications; to various clients across the USA.
 
 
+
+
 - 📫 How to reach me **sacharla@usf.edu**
 - or via Linkedin: https://www.linkedin.com/in/srinidhi-acharla-41b496124/
 
