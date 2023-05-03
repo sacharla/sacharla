@@ -2,21 +2,20 @@
 <h3 align="center">A passionate Data Engineer from India</h3>
 <h3 align="center">Experienced Software Engineer with a demonstrated history of working in the information technology and services industry with a total of 4+ years of experience. 
 
-I am a keen learner of modern emerging technologies. Highly enthusiastic in Data Science, Machine Learning and Artificial Intelligence. Coming from the Networking , Security and Development background, I believe the field of Data Science is advancing at a faster pace because of the complexities involved not only in analyzing the data but protecting the data and practicing the safety measures in doing so. The fact that the Business Intelligence and the data analytics fields are becoming very prominent considering the degree of problems faced by the industries regularly; which requires substantial amount of the data to be analyzed, strategized and interpreted: based of the context of the data - in order to increase the overall productivity and the profits of the entire organization and this itself has grown my interest towards this field of study. ML and AI is rapidly making its way into big companies and into industrial applications such as Telecommunications, Transportation, healthcare, manufacturing etc. I believe that now is the better time than ever to overcome the existing issues in the modern world and tackle them using the ML and AI technologies. 
+I am a keen learner of modern emerging technologies. Highly enthusiastic in Data Science, Machine Learning and Artificial Intelligence. Coming from the Networking , Security and Development background, I believe the field of Data Science is advancing at a faster pace because of the complexities involved not only in analyzing the data but protecting the data and practicing the safety measures in doing so. The fact that the Business Intelligence and the data analytics fields are becoming very prominent considering the degree of problems faced by the industries regularly; which requires substantial amount of the data to be analyzed, strategized and interpreted: based of the context of the data - in order to increase the overall productivity and the profits of the entire organization and this itself has grown my interest towards this field of study. ML and AI is rapidly making its way into big companies and into industrial applications such as Telecommunications, Transportation, healthcare, manufacturing etc. I believe that now is the better time than ever to overcome the existing issues in the modern world and tackle them using the ML and AI technologies. </h3>
 
-Skillset:
-Programming Languages: Python, R programming, C lang.
-Database: Microsoft SQL 
-Data Analysis Platforms: Anaconda, RStudio, Microsoft Azure Machine Learning, SAS enterprise miner, Weka
-Machine Learning Libraries: Pandas,NumPy,Matplotlib,Seaborn,Plotly,Scikit-learn,BeautifulSoup
-Statistical Modeling: Regression, Linear, Non-Linear Models, GLM
-Visualization Tool: Tableau, MS Office
-Cloud Technology: AWS, Google Cloud, Microsoft Azure
-Project Management: Confluence, Jira
-Operating Systems: Windows, Linux
-Containerized platforms: Docker, Kubernetes
-API testing tools: Postman
-  </h3>
+<h3 align="center">Skillset:</h3>
+<h3 align="center">Programming Languages: Python, R programming, C lang.</h3>
+<h3 align="center">Database: Microsoft SQL </h3>
+<h3 align="center">Data Analysis Platforms: Anaconda, RStudio, Microsoft Azure Machine Learning, SAS enterprise miner, Weka</h3>
+<h3 align="center">Machine Learning Libraries: Pandas,NumPy,Matplotlib,Seaborn,Plotly,Scikit-learn,BeautifulSoup</h3>
+<h3 align="center">Statistical Modeling: Regression, Linear, Non-Linear Models, GLM</h3>
+<h3 align="center">Visualization Tool: Tableau, MS Office</h3>
+<h3 align="center">Cloud Technology: AWS, Google Cloud, Microsoft Azure</h3>
+<h3 align="center">Project Management: Confluence, Jira</h3>
+<h3 align="center">Operating Systems: Windows, Linux</h3>
+<h3 align="center">Containerized platforms: Docker, Kubernetes</h3>
+<h3 align="center">API testing tools: Postman</h3>
 
 - 🔭 I’m currently working on [Data Wrangling](https://usflearn.instructure.com/courses/1792940/assignments/13972701)
 
