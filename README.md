@@ -20,6 +20,7 @@ I am a keen learner of modern emerging technologies. Highly enthusiastic in Data
 - 🔭 I’m currently working on [Data Wrangling](https://usflearn.instructure.com/courses/1792940/assignments/13972701)
 
 - 📫 How to reach me **sacharla@usf.edu**
+- or via Linkedin: https://www.linkedin.com/in/srinidhi-acharla-41b496124/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
