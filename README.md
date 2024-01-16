@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srinidhi Acharla</h1>
-<h3 align="center">A passionate Data Engineer from India</h3>
+<h3 align="center">A passionate AWS Cloud Engineer from India</h3>
 <h3 align="center">Experienced Software Engineer with a demonstrated history of working in the information technology and services industry with a total of 4+ years of experience. 
 
 
